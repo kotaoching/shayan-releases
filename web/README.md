@@ -2,9 +2,11 @@
 
 English | [简体中文](README.zh-CN.md)
 
+**Run coding agents on your computer. Stay in control wherever you work.**
+
 Shayan (/ˈʃɑːjɛn/ SHAH-yen; 沙燕, *shāyàn*) is named after the Beijing swallow kite. Its Chinese name is 纸鸢.
 
-The Web is the page a phone opens. It is a set of static files that Caddy on a server serves under the Web's own domain; the page reaches `shayand` on the Computer through a Relay. The Web and the Relay are installed separately ([Relay guide](../relay/README.md)) and can be on the same server or on different ones. The Web runs from its own package, `shayan-web-<version>-any.tar.gz`, signed and published in the releases of [`kotaoching/shayan-releases`](https://github.com/kotaoching/shayan-releases).
+Shayan Web is the browser interface for Shayan. It is a set of static files that Caddy on a server serves under the Web's own domain; the page reaches `shayand` on the Computer through a Relay. The Web and the Relay are installed separately ([Relay guide](../relay/README.md)) and can be on the same server or on different ones. The Web runs from its own package, `shayan-web-<version>-any.tar.gz`, signed and published in the releases of [`kotaoching/shayan-releases`](https://github.com/kotaoching/shayan-releases).
 
 ## Requirements
 
