@@ -2,9 +2,11 @@
 
 [English](README.md) | 简体中文
 
+**编程 Agent 在你的电脑上运行。你可以随时跟进，需要时接手。**
+
 纸鸢的英文名是 Shayan（/ˈʃɑːjɛn/，读作 SHAH-yen），取自北京的沙燕风筝。
 
-Web 是手机打开的网页：一组静态文件，由服务器上的 Caddy 在 Web 自己的域名下提供；网页通过 Relay 连接电脑上的 `shayand`。Web 和 Relay 分开安装（[Relay 说明](../relay/README.zh-CN.md)），可以在同一台服务器上，也可以在不同的服务器上。Web 使用自己的安装包运行：`shayan-web-<版本>-any.tar.gz`，经过签名，发布在 [`kotaoching/shayan-releases`](https://github.com/kotaoching/shayan-releases) 的发行版中。
+Web 提供纸鸢的浏览器界面：一组静态文件，由服务器上的 Caddy 在 Web 自己的域名下提供；网页通过 Relay 连接电脑上的 `shayand`。Web 和 Relay 分开安装（[Relay 说明](../relay/README.zh-CN.md)），可以在同一台服务器上，也可以在不同的服务器上。Web 使用自己的安装包运行：`shayan-web-<版本>-any.tar.gz`，经过签名，发布在 [`kotaoching/shayan-releases`](https://github.com/kotaoching/shayan-releases) 的发行版中。
 
 ## 系统要求
 
